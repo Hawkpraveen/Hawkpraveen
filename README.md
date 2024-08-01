@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/690f2956-59c2-49c8-9a57-d81c3a6a3c49)<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
+<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 <h3 align="center">A passionate learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawkpraveen&label=Profile%20views&color=0e75b6&style=flat" alt="hawkpraveen" /> </p>
