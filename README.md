@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
+![image](https://github.com/user-attachments/assets/690f2956-59c2-49c8-9a57-d81c3a6a3c49)<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 <h3 align="center">A passionate learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawkpraveen&label=Profile%20views&color=0e75b6&style=flat" alt="hawkpraveen" /> </p>
@@ -8,6 +8,8 @@
 - 📫 How to reach me **praveen.pk200109@gmail.com**
 
 - 📄 Know about my experiences :  https://drive.google.com/file/d/10vsmiUw1cLdoh6_a3vGxkkTVIWUeNqj0/view?usp=drive_link
+
+- ![image](https://github.com/user-attachments/assets/c350db0d-c159-4ac5-a18e-0e44004ceb61) My portfolio - https://my-portfolio-reactjs-tailwind.netlify.app/
 
 - ⚡ Fact **Trust the process!**
 
