@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences :  https://drive.google.com/file/d/10vsmiUw1cLdoh6_a3vGxkkTVIWUeNqj0/view?usp=drive_link
 
-- ![image](https://github.com/user-attachments/assets/c350db0d-c159-4ac5-a18e-0e44004ceb61) My portfolio - https://my-portfolio-reactjs-tailwind.netlify.app/
+- 📄 My portfolio - https://my-portfolio-reactjs-tailwind.netlify.app/
 
 - ⚡ Fact **Trust the process!**
 
