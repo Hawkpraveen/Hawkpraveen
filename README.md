@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **praveen.pk200109@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18wqTU-4FxJVOf-E6RQneC2uRGwH1aH90/view?usp=drive_link](https://drive.google.com/file/d/18wqTU-4FxJVOf-E6RQneC2uRGwH1aH90/view?usp=drive_link)
+- 📄 Know about my experiences :  https://drive.google.com/file/d/10vsmiUw1cLdoh6_a3vGxkkTVIWUeNqj0/view?usp=drive_link
 
 - ⚡ Fact **Trust the process!**
 
