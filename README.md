@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **praveen.pk200109@gmail.com**
 
-- 📄 Know about my experiences :  https://drive.google.com/file/d/10vsmiUw1cLdoh6_a3vGxkkTVIWUeNqj0/view?usp=drive_link
+- 📄 Know about my experiences : https://drive.google.com/file/d/1GByVOy1bAkyYKEIilleqjOYg6CQKDvJK/view?usp=drive_link
 
 - 📄 My portfolio - https://my-portfolio-reactjs-tailwind.netlify.app/
 
