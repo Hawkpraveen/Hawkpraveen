@@ -1,24 +1,105 @@
+
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">A passionate learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawkpraveen&label=Profile%20views&color=0e75b6&style=flat" alt="hawkpraveen" /> </p>
+<h3 align="center">Product Engineer | AI Applications | Backend & Full Stack Development</h3>
 
-- 🌱 I’m currently learning **Javascript,React,Mango DB,Machine learning,Deep learning**
-
-- 📫 How to reach me **praveen.pk200109@gmail.com**
-
-- 📄 Know about my experiences : https://drive.google.com/file/d/1GByVOy1bAkyYKEIilleqjOYg6CQKDvJK/view?usp=drive_link
-
-- 📄 My portfolio - https://my-portfolio-reactjs-tailwind.netlify.app/
-
-- ⚡ Fact **Trust the process!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/praveen-kumar-496255190/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/praveen-kumar-496255190" height="30" width="40" /></a>
+<p align="center">
+  I build AI-powered products, scalable backend systems, and intelligent workflows that solve real-world problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/praveen-kumar-496255190/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:praveen.pk200109@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hawkpraveen&show_icons=true&locale=en&layout=compact" alt="hawkpraveen" /></p>
+---
+
+### 👨‍💻 About Me
+
+- 💼 Product Engineer experienced in building AI-powered SaaS applications.
+- 🤖 Interested in AI agents, LLM applications, RAG, and intelligent automation.
+- ⚙️ Experienced in backend architecture, REST APIs, database design, and asynchronous job processing.
+- 🧠 Exploring LLM evaluation, tool calling, and fine-tuning open-source models.
+- 🚀 Currently building **ResearchPilot**, an AI-powered research and decision-support agent.
+- 🌱 Continuously improving my skills in system design, distributed systems, and production-grade AI engineering.
+- 📫 Reach me at **praveen.pk200109@gmail.com**
+- 🌐 Portfolio: [View My Portfolio](https://my-portfolio-reactjs-tailwind.netlify.app/)
+- ⚡ Fun fact: Trust the process!
+
+---
+
+### 🛠️ Languages and Technologies
+
+#### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend technologies" />
+</p>
+
+#### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" alt="Frontend technologies" />
+</p>
+
+#### AI & LLM Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="Machine learning technologies" />
+</p>
+
+- LLM integrations and prompt engineering
+- LangChain and LangGraph
+- Retrieval-Augmented Generation (RAG)
+- AI agent workflows and tool calling
+- Model evaluation and experimentation
+
+#### Databases, Messaging & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker,git,github,azure" alt="Databases and infrastructure" />
+</p>
+
+- MongoDB and Mongoose
+- Redis and BullMQ
+- REST API design and integration
+- Authentication and authorization
+- Background processing and caching
+- Automated testing and debugging
+
+---
+
+### 🚀 Featured Project
+
+#### ResearchPilot — AI Research & Decision Agent
+
+An independent project focused on building an AI agent that researches complex questions, gathers evidence from multiple sources, verifies important claims, and generates structured reports with citations.
+
+**Key engineering areas:**
+- Multi-step AI workflows using LangGraph.
+- Web research and evidence extraction.
+- Source verification and uncertainty handling.
+- Backend APIs and asynchronous research jobs.
+- Model evaluation and cost-conscious AI orchestration.
+
+**Tech stack:** React, TypeScript, Vite, Node.js, Express, Python, FastAPI, LangGraph, MongoDB, and Ollama.
+
+> Project status: In development.
+
+---
+
+### 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hawkpraveen&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkpraveen&layout=compact&hide_border=true" alt="Most used programming languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving — one commit at a time.</i>
+</p>
